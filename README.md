@@ -31,7 +31,7 @@
 ### Stage 3: Prototype
 - Created 7 clickable screens in Figma
 - Covers: Login/Dashboard, MoodSync AI Check-in, Pod Control, Guided Breathing, Scheduler, Journal, Dashboard
-- 🔗 [Prototype Link — click here]((https://www.figma.com/make/Oo87sFKVChbzGWNcdzljnS/Mindful-Work-App-Prototype?t=e676AhRDPKodT5AV-1))
+- 🔗 [Prototype Link — https://www.figma.com/make/Oo87sFKVChbzGWNcdzljnS/Mindful-Work-App-Prototype?t=e676AhRDPKodT5AV-1
 - 📁 See: /Wireframes/
 
 ### Stage 4: Test
