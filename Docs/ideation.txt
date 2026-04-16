@@ -1,0 +1,55 @@
+IDEATION DOCUMENT — MINDFUL WORK APP
+
+BRAINSTORMING METHOD: Mind mapping + "How Might We" questions + dot voting
+
+CORE PROBLEM: Employees need instant, personalized, private stress relief that fits within a 5–15 minute work break.
+
+—————————————————————————
+5 COMPULSORY FEATURES (Required by assessment):
+—————————————————————————
+
+1. MOODSYNC AI
+Description: The app's core intelligence engine. Collects stress input from the user via a quick survey (1–5 stress level), wearable data (heart rate, HRV), or voice tone analysis. Based on this data, MoodSync AI automatically configures the pod settings — selecting the most suitable music playlist, lighting color, aroma intensity, and meditation type.
+Why it's needed: Personalization is the #1 employee request. Generic settings don't work. MoodSync removes the need for the user to manually configure anything, delivering instant relief.
+How it works in the app: A stress check-in screen on launch → AI processes the input → Auto-configures pod → Confirmation screen shows the session plan.
+
+2. BREATHE WITH ME
+Description: A guided micro-meditation feature offering 3 session lengths: 3 minutes, 7 minutes, and 12 minutes. Uses animated breathing circles, calming visuals, and audio narration to guide the user through inhale-hold-exhale cycles. Includes optional body scan and visualization techniques.
+Why it's needed: Breathing is the fastest evidence-based method for reducing cortisol (stress hormone). This makes it accessible even outside the pod.
+How it works in the app: Available from the Home screen and Pod Control Screen. A circular breathing animation expands/contracts with audio cues.
+
+3. POD SCHEDULER
+Description: A calendar-based booking system where employees reserve a pod in advance. Shows real-time availability, allows employees to pick their preferred pod type (quiet reflection, active reset, aroma therapy), and sends a reminder notification 5 minutes before the session.
+Why it's needed: Eliminates crowding and anxiety about pod availability. Employees who can plan their break feel more in control and actually use wellness resources.
+How it works in the app: Calendar view showing available slots → Select type → Confirm booking → Get reminder notification.
+
+4. POST-SESSION JOURNAL
+Description: After each pod session, the app prompts the user with 3 simple questions: "How stressed were you before? (1–10)", "How do you feel now? (1–10)", and "What helped most today?" Users can also write free-text notes. Data is saved to the Stress Tracking Dashboard.
+Why it's needed: Reflection reinforces the benefit of the session and builds long-term stress awareness. Journaling also helps users identify their most effective stress triggers and solutions.
+How it works in the app: Appears automatically after each session ends. Optional — user can skip.
+
+5. STRESS TRACKING DASHBOARD
+Description: A visual data dashboard on the Home Screen that displays the user's stress trends over time. Includes a weekly stress chart (line graph), total pod sessions completed, average stress reduction per session, and a mood streak tracker. Users can also view AI-generated insights like "You're 30% calmer on days when you book a morning session."
+Why it's needed: Long-term data helps users understand their stress patterns and empowers them to make healthier choices. It also demonstrates the value of the pod to the employer.
+How it works in the app: Displayed prominently on the Home/Dashboard screen. Tap any data point to see session details.
+
+—————————————————————————
+2 ADDITIONAL INNOVATIVE FEATURES:
+—————————————————————————
+
+6. WELLNESS REWARD BADGES
+Description: A gamification layer that awards digital badges for consistent pod usage (e.g., "7-Day Streak", "Stress Buster", "Zen Master"). Badges appear on the user's profile and can be shared with an opt-in workplace wellness leaderboard.
+Why it's needed: Gamification increases long-term engagement and motivates employees to use wellness resources consistently rather than only during crisis moments.
+
+7. EMERGENCY CALM BUTTON
+Description: A one-tap "I need help now" button accessible from any screen. Instantly triggers a 3-minute guided breathing session, dims the pod lights to blue, and activates the lightest aroma setting — no configuration required.
+Why it's needed: During sudden stress spikes (panic before a meeting, overwhelming news), users can't navigate menus. This feature provides instant relief with zero friction.
+
+—————————————————————————
+IDEATION TOOLS USED:
+—————————————————————————
+- Miro (mind mapping and feature prioritization)
+- MindMeister (idea branching)
+- Persona cards (matching features to user needs)
+- "How Might We" framework to generate ideas
+- Dot voting to prioritize top features
