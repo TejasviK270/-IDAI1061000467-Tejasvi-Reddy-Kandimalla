@@ -1,0 +1,77 @@
+PROTOTYPE DESCRIPTION — MINDFUL WORK APP
+Tool Used: Figma (or Canva — replace as appropriate)
+Type: Visual + Clickable Prototype (no coding)
+
+SCREEN 1: LOGIN / HOME DASHBOARD
+Purpose: Entry point and main hub of the app.
+Contents:
+- App logo: "ZenPod" with a lotus icon
+- Greeting: "Good afternoon, [User Name]. Your stress level today: 7/10"
+- Stress Tracking Dashboard widget (mini line chart showing this week's stress levels)
+- Quick-action buttons: "Book a Pod", "Start Breathe With Me", "View Progress"
+- Bottom navigation bar: Home | Schedule | Journal | Profile
+Color Scheme: Soft teal (#E1F5EE) background, white cards, dark teal text
+Design Notes: Clean, calming layout. No harsh colors. Large readable fonts.
+
+SCREEN 2: STRESS CHECK-IN (MOODSYNC AI)
+Purpose: Collects stress data to configure the pod automatically.
+Contents:
+- Title: "How are you feeling right now?"
+- Emoji stress scale (1–5): 😊 → 😐 → 😟 → 😤 → 😰
+- Optional: "Connect wearable" toggle (shows heart rate: 92 BPM)
+- Optional: "Analyse my voice" mic button
+- CTA Button: "Configure My Pod" (teal)
+- Short text: "MoodSync AI will personalise your session."
+Design Notes: Friendly, non-clinical. Emojis make it approachable for all ages.
+
+SCREEN 3: POD CONTROL SCREEN
+Purpose: Allows manual or AI-driven adjustment of pod settings.
+Contents:
+- Header: "Your Pod is Ready — Session: Calming Reset"
+- Three sliders: Lighting (Blue → Warm White), Aroma (Lavender → Citrus), Sound (Rain → Ocean → Silence)
+- AI Recommendation badge: "MoodSync suggests: Blue light + Lavender + Ocean sounds"
+- Timer: "Session: 12 minutes" (adjustable)
+- Buttons: "Start Session" | "Customise Manually"
+Design Notes: Use visual color swatches for lighting options. Icons for each aroma type.
+
+SCREEN 4: BREATHE WITH ME
+Purpose: Guided micro-meditation during or outside the pod.
+Contents:
+- Animated breathing circle (expands on inhale, contracts on exhale)
+- Text prompts: "Breathe in... 1... 2... 3... 4" / "Hold... 1... 2... 3... 4" / "Breathe out..."
+- Session length selector: 3 min | 7 min | 12 min
+- Background: Deep blue gradient (simulate with flat dark blue in prototype)
+- Audio icon (indicates narration playing)
+Design Notes: Minimal — nothing on screen but the breathing circle and prompts. Calming.
+
+SCREEN 5: POD SCHEDULER
+Purpose: Book a pod session in advance.
+Contents:
+- Monthly calendar view with available (green dot) and booked (grey) slots
+- Pod type selector: "Quiet Reflection" | "Aroma Therapy" | "Active Reset"
+- Time slot grid: 09:00 | 10:30 | 13:00 | 15:30 | 17:00
+- Confirmation card: "Pod 3 booked for Wednesday 2:00 PM — Aroma Therapy"
+- Toggle: "Remind me 5 minutes before" (on by default)
+Design Notes: Simple calendar. Color-coded availability. Confirmation screen with summary.
+
+SCREEN 6: POST-SESSION JOURNAL
+Purpose: Reflective journaling after each session.
+Contents:
+- Header: "Session Complete! How do you feel?"
+- Before stress rating: 1–10 slider (pre-filled from check-in)
+- After stress rating: 1–10 slider (user fills in)
+- Question: "What helped most today?" (checkboxes: Music / Breathing / Lighting / Aroma / All)
+- Free text box: "Add a note (optional)"
+- Button: "Save Journal Entry"
+- Motivational message: "You reduced your stress by 3 points today. Great work!"
+Design Notes: Warm, encouraging tone. Positive colors (soft green/teal).
+
+SCREEN 7: STRESS TRACKING DASHBOARD
+Purpose: Long-term view of stress trends and progress.
+Contents:
+- Weekly line chart: Stress level Mon–Sun (Y-axis 1–10)
+- Stat cards: "Sessions this week: 4" | "Avg. stress reduction: 3.2 pts" | "Current streak: 5 days"
+- AI Insight: "You're 28% calmer on mornings when you use the pod before 10am."
+- Badge display: "Zen Streak 🏅" | "Stress Buster 🏅"
+- Button: "View Full History"
+Design Notes: Data should feel empowering, not clinical. Use soft greens and teals for positive data.
