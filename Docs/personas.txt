@@ -1,0 +1,101 @@
+10 USER PERSONAS — MINDFUL WORK APP
+
+PERSONA 1: Riya Sharma
+Age: 28 | Role: IT Software Developer | Stress Level: High
+Background: Works long hours debugging code and attending back-to-back sprint meetings. Often gets headaches by mid-afternoon.
+Stress Triggers: Tight sprint deadlines, unclear project requirements, constant Slack notifications.
+Coping Habits: Listens to lo-fi music through headphones, takes 5-minute screen breaks.
+Goals: Wants a quick, private space to reset mentally between tasks without leaving the office floor.
+Tech Comfort: Very high — uses multiple apps and wearables daily.
+Quote: "I just need 10 minutes where no one can reach me."
+Preferred Pod Features: AI music playlists, mood lighting, noise cancellation.
+
+PERSONA 2: Aarav Mehta
+Age: 35 | Role: Marketing Manager | Stress Level: Very High
+Background: Leads a team of 8, responsible for campaign launches and client presentations. Experiences anxiety before major presentations.
+Stress Triggers: High-stakes presentations, client escalations, team conflicts.
+Coping Habits: Short meditation using a mindfulness app, coffee (which worsens anxiety).
+Goals: Needs a structured, guided relaxation session that can be completed in 10–15 minutes.
+Tech Comfort: Moderate — uses smartphone apps but not wearables.
+Quote: "Before a big pitch, my mind races. I need something that actually calms me down."
+Preferred Pod Features: Guided breathing exercises, calming aroma, soft blue lighting.
+
+PERSONA 3: Priya Nair
+Age: 24 | Role: Marketing Intern | Stress Level: Moderate
+Background: New to the corporate environment and still adapting. Feels pressure to impress and often works overtime.
+Stress Triggers: Fear of making mistakes, feeling isolated, imposter syndrome.
+Coping Habits: Music, journaling after work, calling friends.
+Goals: Wants a relaxing, non-intimidating space to decompress and feel supported.
+Tech Comfort: High — grew up with smartphones and social apps.
+Quote: "I feel like everyone is judging me. I just need to breathe and reset."
+Preferred Pod Features: Music-based relaxation, mood journal, warm lighting.
+
+PERSONA 4: Sameer Verma
+Age: 40 | Role: HR Executive | Stress Level: High
+Background: Handles employee grievances, recruitments, and compliance. Constantly deals with sensitive issues.
+Stress Triggers: Confidential employee cases, compliance deadlines, long administrative work.
+Coping Habits: Reads during lunch, takes a walk around the office block.
+Goals: Needs a private, quiet space to mentally switch off from stressful conversations.
+Tech Comfort: Low-moderate — prefers simple interfaces.
+Quote: "My job means I carry everyone else's stress. I rarely get a moment for myself."
+Preferred Pod Features: Quiet aroma pod, minimal interface, simple session booking.
+
+PERSONA 5: Divya Krishnan
+Age: 45 | Role: Finance Manager | Stress Level: High
+Background: Manages budgets, quarterly reports, and audits. Works under financial pressure and strict deadlines.
+Stress Triggers: Audit season, budget discrepancies, senior management reviews.
+Coping Habits: Deep breathing, herbal tea, classical music.
+Goals: Wants a reliable, bookable pod session she can plan around her work schedule.
+Tech Comfort: Moderate — uses office software, basic smartphone apps.
+Quote: "I can't afford to break down during audit season. I need structured relief."
+Preferred Pod Features: Pod Scheduler, classical music AI playlist, aroma diffuser.
+
+PERSONA 6: Rohan D'Souza
+Age: 31 | Role: UX Designer | Stress Level: Moderate
+Background: Works on multiple product designs simultaneously, often in creative blocks or facing revision requests.
+Stress Triggers: Creative blocks, critical client feedback, unclear design briefs.
+Coping Habits: Sketches, doodles, takes creative walks.
+Goals: Wants an inspiring, aesthetically pleasing pod experience that sparks creativity and reduces frustration.
+Tech Comfort: Very high — uses design tools, VR prototypes, and creative software daily.
+Quote: "When I'm stuck, I need a reset — not more pressure."
+Preferred Pod Features: Mood-based lighting, nature sounds, post-session journaling.
+
+PERSONA 7: Kavita Rao
+Age: 52 | Role: Operations Director | Stress Level: Very High
+Background: Oversees daily operations across 3 departments. Manages vendor relationships and logistics simultaneously.
+Stress Triggers: Supply chain disruptions, team underperformance, board meetings.
+Coping Habits: Yoga (on weekends), classical music.
+Goals: Needs a short but deeply effective stress-relief session that helps her stay sharp for leadership decisions.
+Tech Comfort: Low — prefers guided, step-by-step experiences over complex apps.
+Quote: "Leadership is lonely. I just want 15 minutes of real peace."
+Preferred Pod Features: Guided meditation, simple interface, stress tracking dashboard.
+
+PERSONA 8: Arjun Patel
+Age: 22 | Role: Sales Executive (Junior) | Stress Level: Moderate-High
+Background: Makes 50+ cold calls per day, faces constant rejection, and chases monthly sales targets.
+Stress Triggers: Rejection on calls, missing monthly targets, competitive team environment.
+Coping Habits: Video games after work, energy drinks (worsen stress).
+Goals: Wants a short energy-reset between call sessions to recover mentally and stay motivated.
+Tech Comfort: High — uses CRM apps, social media, smartphone tools.
+Quote: "After 20 rejections in a row, I feel like giving up. I need something to recharge me."
+Preferred Pod Features: MoodSync AI (energizing or calming based on mood), gamified relaxation, post-session reward badge.
+
+PERSONA 9: Leena Chaudhary
+Age: 38 | Role: Customer Support Lead | Stress Level: High
+Background: Handles escalated customer complaints and manages a team of 15 support agents. Often emotionally drained.
+Stress Triggers: Angry customers, agent turnover, repetitive escalations.
+Coping Habits: Venting to a trusted colleague, short walks.
+Goals: Needs a pod session that specifically addresses emotional exhaustion and helps her feel heard.
+Tech Comfort: Moderate — comfortable with smartphone apps.
+Quote: "I absorb so much frustration from others. I need something to cleanse that energy."
+Preferred Pod Features: Breathe with Me session, calming aroma, post-session mood journal.
+
+PERSONA 10: Mihir Sen
+Age: 60 | Role: Senior Legal Counsel | Stress Level: High
+Background: Handles complex contracts, litigation support, and regulatory compliance. Has high cognitive load.
+Stress Triggers: Case complexity, time pressure, high-stakes decisions.
+Coping Habits: Prayer, classical Indian music, evening walks.
+Goals: Needs a dignified, private, culturally comfortable stress-relief option that doesn't feel gimmicky.
+Tech Comfort: Low — prefers voice prompts and simple interfaces over touch-heavy apps.
+Quote: "I just need silence and a moment of stillness."
+Preferred Pod Features: Aroma diffuser, guided breathing (audio), minimal UI, no screens if possible.
