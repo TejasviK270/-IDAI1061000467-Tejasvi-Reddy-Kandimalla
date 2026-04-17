@@ -1,6 +1,5 @@
 PROTOTYPE DESCRIPTION — MINDFUL WORK APP
-Tool Used: Figma (or Canva — replace as appropriate)
-Type: Visual + Clickable Prototype (no coding)
+Tool Used: Figma 
 
 SCREEN 1: LOGIN / HOME DASHBOARD
 Purpose: Entry point and main hub of the app.
